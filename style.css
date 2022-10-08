@@ -1,0 +1,21 @@
+ .banner{
+    filter: brightness(40%);
+
+}
+.banner-ontent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  
+    transform: translate(-50%,-50%);
+}
+.learn{
+    background-color: #F4FAFD;
+}
+.join{
+    height:280px;
+    background-color: #289BDE;
+}
+.fa-solid ,.fa-regular{
+    color:gold;
+}
