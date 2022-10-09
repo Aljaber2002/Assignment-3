@@ -24,3 +24,17 @@
     background-color: 
     #161616;
 }
+/* css responsive design */
+@media screen and (min-width:375px)and (max-width:992px){
+    .banner{
+        width: 600px;
+        height: 600px;
+    }
+    
+}
+@media screen and (max-width:375px){
+    .banner{
+        width:700px;
+        height:700px;
+    }
+}
